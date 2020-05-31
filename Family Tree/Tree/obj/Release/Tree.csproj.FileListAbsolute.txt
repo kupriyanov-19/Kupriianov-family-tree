@@ -1,0 +1,12 @@
+C:\Users\katyu\Desktop\Tree\Tree\bin\Release\Tree.exe.config
+C:\Users\katyu\Desktop\Tree\Tree\bin\Release\Tree.exe
+C:\Users\katyu\Desktop\Tree\Tree\bin\Release\Tree.pdb
+C:\Users\katyu\Desktop\Tree\Tree\obj\Release\Tree.RedForm.resources
+C:\Users\katyu\Desktop\Tree\Tree\obj\Release\Tree.AddForm.resources
+C:\Users\katyu\Desktop\Tree\Tree\obj\Release\Tree.CreateForm.resources
+C:\Users\katyu\Desktop\Tree\Tree\obj\Release\Tree.Generic_Form.resources
+C:\Users\katyu\Desktop\Tree\Tree\obj\Release\Tree.Properties.Resources.resources
+C:\Users\katyu\Desktop\Tree\Tree\obj\Release\Tree.csproj.GenerateResource.cache
+C:\Users\katyu\Desktop\Tree\Tree\obj\Release\Tree.csproj.CoreCompileInputs.cache
+C:\Users\katyu\Desktop\Tree\Tree\obj\Release\Tree.exe
+C:\Users\katyu\Desktop\Tree\Tree\obj\Release\Tree.pdb
